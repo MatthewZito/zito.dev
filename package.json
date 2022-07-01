@@ -108,7 +108,7 @@
 		"@babel/preset-react": "7.16.7",
 		"@babel/preset-typescript": "7.16.7",
 		"@commitlint/cli": "16.0.1",
-		"@commitlint/config-conventional": "16.0.0",
+		"@commitlint/config-conventional": "17.0.3",
 		"@magister_zito/eslint-config-react": "^0.11.0",
 		"@magister_zito/prettier-config": "^0.0.2",
 		"@magister_zito/stylelint-config": "0.2.1",
